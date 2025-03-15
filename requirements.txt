@@ -1,9 +1,20 @@
-Django>=3.2,<4.0
-djangorestframework
-djangorestframework-simplejwt
-psycopg2-binary
-django-cors-headers
-django-ratelimit
-dj-database-url
-python-decouple
-Faker
+asgiref==3.8.1
+dj-database-url==2.2.0
+Django==3.2.25
+django-cors-headers==4.5.0
+django-ratelimit==4.1.0
+django-redis==5.4.0
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+# Faker==37.0.0
+gunicorn==23.0.0
+packaging==24.2
+psycopg2-binary==2.9.10
+PyJWT==2.10.1
+python-decouple==3.8
+# python-memcached==1.62
+pytz==2025.1
+redis==5.2.1
+sqlparse==0.5.3
+typing_extensions==4.12.2
+tzdata==2025.1

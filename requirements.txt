@@ -12,9 +12,11 @@ packaging==24.2
 psycopg2-binary==2.9.10
 PyJWT==2.10.1
 python-decouple==3.8
-# python-memcached==1.62
+python-memcached==1.62
 pytz==2025.1
 redis==5.2.1
 sqlparse==0.5.3
 typing_extensions==4.12.2
 tzdata==2025.1
+whitenoise
+
